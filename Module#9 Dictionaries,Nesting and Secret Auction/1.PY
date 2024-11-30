@@ -1,0 +1,12 @@
+num1 = 10
+num2 = 20
+addition = num1 + num2
+substraction = num1 - num2
+multiplication = num1*num2
+division = num1 / num2 
+reminder = num1 % num2
+print(f"Addition = {addition}")
+print(f"Substraction = {substraction}")
+print(f"Multiplication = {multiplication}")
+print(f"Division = {division}")
+print(f"Reminder = {reminder}")
